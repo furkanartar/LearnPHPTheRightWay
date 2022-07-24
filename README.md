@@ -16,6 +16,6 @@ https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9
 
 ---
 #### Homework sections:
-* **1** - homework branch: [Click for go to work branch.](https://github.com/furkanartar/LearnPHPTheRightWay/tree/1.32)
+* **1** - homework branch: [Click for go to work branch.](https://github.com/furkanartar/LearnPHPTheRightWay/tree/1.32) [Click for view homework result](https://prnt.sc/qjbR5wjfVnTm)
 * **2** - homework branch: ???
 * **3** - homework branch: ???
